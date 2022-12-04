@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pedro Ortiz Suarez</title>
-    <link>https://portizs.eu/authors/admin/</link>
-      <atom:link href="https://portizs.eu/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pedro Ortiz Suarez</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 22:12:59 +0000</lastBuildDate>
-    <image>
-      <url>https://portizs.eu/authors/admin/avatar_hueb0574e90aab1c2f5c01f8c1d4017be7_5823720_270x270_fill_q100_lanczos_center.jpg</url>
-      <title>Pedro Ortiz Suarez</title>
-      <link>https://portizs.eu/authors/admin/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pedro Ortiz Suarez</title><link>https://portizs.eu/authors/admin/</link><atom:link href="https://portizs.eu/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Pedro Ortiz Suarez</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 22:12:59 +0000</lastBuildDate><image><url>https://portizs.eu/authors/admin/avatar_hueb0574e90aab1c2f5c01f8c1d4017be7_5823720_270x270_fill_q100_lanczos_center.jpg</url><title>Pedro Ortiz Suarez</title><link>https://portizs.eu/authors/admin/</link></image></channel></rss>
