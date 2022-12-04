@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Annette Rios | Pedro Ortiz Suarez</title><link>https://portizs.eu/authors/annette-rios/</link><atom:link href="https://portizs.eu/authors/annette-rios/index.xml" rel="self" type="application/rss+xml"/><description>Annette Rios</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://portizs.de/media/sharing.jpg</url><title>Annette Rios</title><link>https://portizs.eu/authors/annette-rios/</link></image><item><title>Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets</title><link>https://portizs.eu/publication/2022/tacl/quality/</link><pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate><guid>https://portizs.eu/publication/2022/tacl/quality/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annette Rios | Pedro Ortiz Suarez</title>
+    <link>https://portizs.eu/authors/annette-rios/</link>
+      <atom:link href="https://portizs.eu/authors/annette-rios/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annette Rios</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://portizs.de/media/sharing.jpg</url>
+      <title>Annette Rios</title>
+      <link>https://portizs.eu/authors/annette-rios/</link>
+    </image>
+    
+    <item>
+      <title>Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets</title>
+      <link>https://portizs.eu/publication/2022/tacl/quality/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portizs.eu/publication/2022/tacl/quality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
